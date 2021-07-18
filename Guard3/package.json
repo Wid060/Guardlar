@@ -1,0 +1,17 @@
+{
+  "name": "Guard3",
+  "version": "2.0.5",
+  "description": "Guard işte amk",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wid",
+  "license": "ISC",
+  "dependencies": {
+    "ark.db": "^2.6.7",
+    "discord.js": "^12.5.3",
+    "request": "^2.88.2"
+  },
+  "keywords": []
+}
